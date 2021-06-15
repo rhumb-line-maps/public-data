@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Extents" id="Extents">
+	<SimpleField name="map" type="string"></SimpleField>
+	<SimpleField name="width" type="float"></SimpleField>
+	<SimpleField name="height" type="float"></SimpleField>
+	<SimpleField name="scale" type="float"></SimpleField>
+	<SimpleField name="rotation" type="float"></SimpleField>
+</Schema>
+<Folder><name>Extents</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 15</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.2543546811547,46.2532788616559 -69.0768804968361,46.2535359438391 -69.0767694158421,46.17387342989 -69.2539871804829,46.1736170574465 -69.2543546811547,46.2532788616559</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 14</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.42669241827,46.2527655725488 -69.2492218076971,46.2532901655394 -69.2488617229944,46.1736283301229 -69.4260759325809,46.1731051853826 -69.42669241827,46.2527655725488</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 10</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.5063893604133,46.367153964415 -69.5052554507256,46.2440458520325 -69.6200664980236,46.2434808106192 -69.6214580335293,46.3665865034871 -69.5063893604133,46.367153964415</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 16</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.2489051520466,46.1831738825354 -69.0716566503485,46.1834223922656 -69.0715533697289,46.1037588874048 -69.2485464026185,46.1035110636865 -69.2489051520466,46.1831738825354</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 11</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.4121974070989,46.3675322827144 -69.4112743963587,46.2444225572477 -69.5260880255163,46.2439518875917 -69.5272686831345,46.3670595976138 -69.4121974070989,46.3675322827144</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 12</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.3068649682364,46.3678634505856 -69.3061778120374,46.2447523130578 -69.4209937711587,46.2443871807796 -69.4219385932416,46.3674967547603 -69.3068649682364,46.3678634505856</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 13</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.211307305605,46.3680799497348 -69.2108341249062,46.2449678890708 -69.3256516887357,46.2446985032181 -69.3263825484086,46.3678094103234 -69.211307305605,46.3680799497348</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 9</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.2765928660239,46.3647217038037 -69.4544233804345,46.3641533016053 -69.4550852807719,46.4438107113031 -69.2769957540861,46.4443806874697 -69.2765928660239,46.3647217038037</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 1</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.0046369330154,47.1058326060205 -69.0046262789199,46.9827356552387 -69.1210151593766,46.9826718022451 -69.1212938505769,47.1057684792106 -69.0046369330154,47.1058326060205</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 3</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.1799069612827,46.927682647217 -69.179496158282,46.8045824541221 -69.2954991269894,46.8043417488952 -69.296175412021,46.9274409102125 -69.1799069612827,46.927682647217</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 5</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.3139469714525,46.8030857494788 -69.3132332098377,46.6799841041829 -69.4289676592489,46.679608754343 -69.4299451267722,46.802708791143 -69.3139469714525,46.8030857494788</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 8</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.3934246604128,46.4924697222873 -69.2151753988529,46.4929439389162 -69.2148618971352,46.4132852655985 -69.3928514694429,46.4128123586106 -69.3934246604128,46.4924697222873</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 4</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.3808218010666,46.8141558023978 -69.201512289755,46.8146119381432 -69.2012153820746,46.7349576951485 -69.3802607110932,46.7345028198478 -69.3808218010666,46.8141558023978</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 2</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.2303905580569,46.9901560991585 -69.0504918931135,46.990376738006 -69.0504170406401,46.9107244905376 -69.2300490155736,46.9105044616176 -69.2303905580569,46.9901560991585</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 7</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.3939565930784,46.5660914413079 -69.215466334734,46.5665668717426 -69.2151516021792,46.4869092300149 -69.3933811517583,46.486435112734 -69.3939565930784,46.5660914413079</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Extents">
+		<SimpleData name="map">Map 6</SimpleData>
+		<SimpleData name="width">431.800000000000011</SimpleData>
+		<SimpleData name="height">279.399999999999977</SimpleData>
+		<SimpleData name="scale">31680.000000000149157</SimpleData>
+		<SimpleData name="rotation">0.000000000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-69.3123912067809,46.6860209580736 -69.311683875373,46.5629167642763 -69.4271691647501,46.5625438205578 -69.4281385601443,46.6856464165269 -69.3123912067809,46.6860209580736</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
